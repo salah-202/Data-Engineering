@@ -12,5 +12,5 @@ The following components are included in this project:
 
 4. Loading the data by archiving the transformed text file into a TAR file: In the final task creation, we will load the data by archiving the transformed text file into a TAR file.
 
-![Image description](Screenshot from 2023-04-15 22-30-22.png)
+![airflow DAG](Screenshot-2023-04-15.png)
 
